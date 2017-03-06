@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BYS.Satori.TA.Model
+namespace BYS.Satori.TA.UI
 {
-    public class UserInfo
+    public class Class1
     {
-        public string Name { get; set; }
-
     }
 }

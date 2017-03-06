@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYS.Satori.TA.BLL", "BYS.Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYS.Satori.TA.Model", "BYS.Satori.TA.Model\BYS.Satori.TA.Model.csproj", "{DBB43137-A18C-4DA7-92FF-F1DEFD4E14C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BYS.Satori.TA.UIPortal", "BYS.Satori.TA.UIPortal\BYS.Satori.TA.UIPortal.csproj", "{037BAAE1-E10E-4D82-8A27-519F25744118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DBB43137-A18C-4DA7-92FF-F1DEFD4E14C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB43137-A18C-4DA7-92FF-F1DEFD4E14C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB43137-A18C-4DA7-92FF-F1DEFD4E14C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037BAAE1-E10E-4D82-8A27-519F25744118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037BAAE1-E10E-4D82-8A27-519F25744118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037BAAE1-E10E-4D82-8A27-519F25744118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037BAAE1-E10E-4D82-8A27-519F25744118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
